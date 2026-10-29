@@ -37,23 +37,40 @@ A hands-on project involving network traffic capture and packet analysis using W
 - Practising basic network troubleshooting
 ## Screenshots
 
+## Screenshots
+
 ### Live Network Capture
-![Live Capture](wifi_live_capture.png)
+![Live Capture](./wifi_live_capture.png)
+
+### Capture Properties
+![Capture Properties](./capture_properties.png)
 
 ### Protocol Hierarchy
-![Protocol Hierarchy](protocol_hierarchy.png)
+![Protocol Hierarchy](./protocol_hierarchy.png)
 
 ### DNS Analysis
-![DNS Analysis](dns_general.png)
+![DNS Analysis](./dns_general.png)
+
+### DNS GitHub Query
+![DNS GitHub Query](./dns_github_query.png)
 
 ### HTTP Filter
-![HTTP Filter](http_filter.png)
+![HTTP Filter](./http_filter.png)
 
-### ICMP Analysis
-![ICMP Analysis](icmp_filter.png)
+### HTTP Stream
+![HTTP Stream](./http_stream.png)
+
+### ICMP Filter
+![ICMP Filter](./icmp_filter.png)
+
+### ICMP Echo
+![ICMP Echo](./icmp_echo.png)
 
 ### TLS Client Hello
-![TLS Client Hello](tls_client_hello.png)
+![TLS Client Hello](./tls_client_hello.png)
 
 ### Expert Information
-![Expert Information](expert_info.png)
+![Expert Information](./expert_info.png)
+
+### PowerShell Commands
+![PowerShell Commands](./powershell_commands.png)
