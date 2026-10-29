@@ -35,3 +35,25 @@ A hands-on project involving network traffic capture and packet analysis using W
 - Understanding network protocols
 - Inspecting captured packets
 - Practising basic network troubleshooting
+## Screenshots
+
+### Live Network Capture
+![Live Capture](wifi_live_capture.png)
+
+### Protocol Hierarchy
+![Protocol Hierarchy](protocol_hierarchy.png)
+
+### DNS Analysis
+![DNS Analysis](dns_general.png)
+
+### HTTP Filter
+![HTTP Filter](http_filter.png)
+
+### ICMP Analysis
+![ICMP Analysis](icmp_filter.png)
+
+### TLS Client Hello
+![TLS Client Hello](tls_client_hello.png)
+
+### Expert Information
+![Expert Information](expert_info.png)
