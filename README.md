@@ -7,19 +7,31 @@ A hands-on project involving network traffic capture and packet analysis using W
 - Wireshark
 - Windows PowerShell
 
+## Project Files
+- `capture_properties.png`
+- `dns_general.png`
+- `dns_github_query.png`
+- `expert_info.png`
+- `http_filter.png`
+- `http_stream.png`
+- `icmp_echo.png`
+- `icmp_filter.png`
+- `lab_capture.pcapng`
+- `powershell_commands.png`
+- `protocol_hierarchy.png`
+- `tls_client_hello.png`
+- `wifi_live_capture.png`
+
 ## Analysis Performed
-- Live network traffic capture
-- Protocol hierarchy analysis
-- DNS query inspection
-- HTTP filtering and stream analysis
+- Live packet capture
+- DNS analysis
+- HTTP filtering and stream inspection
 - ICMP packet analysis
 - TLS Client Hello inspection
+- Protocol hierarchy and network conversations
 - Expert information review
-
-## Project Files
-This repository contains screenshots of the analysis and a packet capture file (`.pcapng`).
 
 ## Learning Outcomes
 - Understanding network protocols
-- Inspecting packets and network conversations
-- Learning basic network troubleshooting
+- Inspecting captured packets
+- Practising basic network troubleshooting
