@@ -74,3 +74,20 @@ A hands-on project involving network traffic capture and packet analysis using W
 
 ### PowerShell Commands
 ![PowerShell Commands](./powershell_commands.png)
+
+## Key Findings
+
+- Identified protocols using Wireshark's Protocol Hierarchy.
+- Examined DNS traffic and domain query information.
+- Applied HTTP filters to inspect relevant packets and streams.
+- Analysed ICMP traffic to understand network diagnostic packets.
+- Inspected TLS Client Hello packets to observe connection setup information.
+- Reviewed Expert Information to identify potential network issues.
+
+## Conclusion
+
+This project provided practical experience in network traffic capture, packet inspection, protocol analysis, and basic network troubleshooting using Wireshark.
+
+## Author
+
+Cybersecurity learner | Network Traffic Analysis
